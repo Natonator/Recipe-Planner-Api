@@ -13,4 +13,6 @@
 
 
 Route::get('/', 'InfoController@index');
-Route::get('/home', 'InfoController@index');
+Route::get('/home', 'InfoController@index')->name('home');
+
+Auth::routes();
