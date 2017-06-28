@@ -9,3 +9,4 @@ New Updated Recipe Planner
 - change permissions to recipe-planner-api/storage to 755 (temporary fix)
 - change permissions to recipe-planner-api/storage/framework/views to 755 (temporary fix)
 - change permissions to recipe-planner-api/storage/logs to 755 (temporary fix)
+- ```chmod -R guo+w storage```
