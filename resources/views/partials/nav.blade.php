@@ -18,10 +18,17 @@
           <li><a href="#">Planner</a></li>
           <li><a href="#">Shopping List</a></li>
         </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="/login">Login</a></li>
-          <li><a href="/register">Register</a></li>
-        </ul>
+        @if (Auth::check())
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/user">{{ Auth::user()->name }}</a></li>
+            <li><a href="/logout">Logout</a></li>
+          </ul>
+        @else
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/login">Login</a></li>
+            <li><a href="/register">Register</a></li>
+          </ul>
+        @endif
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
