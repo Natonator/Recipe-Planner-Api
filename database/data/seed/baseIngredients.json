@@ -1,31 +1,51 @@
 [
   {
-    "name": "flour",
+    "name": "apple",
     "baseQuantity": "1",
-    "baseMeasurement": "cups"
+    "baseMeasurement": "count"
   },
   {
-    "name": "milk",
+    "name": "bacon",
     "baseQuantity": "1",
-    "baseMeasurement": "cups"
+    "baseMeasurement": "slices"
   },
   {
-    "name": "water",
+    "name": "banana",
     "baseQuantity": "1",
-    "baseMeasurement": "cups"
+    "baseMeasurement": "count"
   },
   {
-    "name": "salt",
+    "name": "black pepper",
     "baseQuantity": "1",
     "baseMeasurement": "tsp"
   },
   {
-    "name": "vegetable oil",
+    "name": "butter",
     "baseQuantity": "1",
     "baseMeasurement": "tbsp"
   },
   {
-    "name": "black pepper",
+    "name": "cajun seasoning",
+    "baseQuantity": "1",
+    "baseMeasurement": "tsp"
+  },
+  {
+    "name": "chicken breasts",
+    "baseQuantity": "1",
+    "baseMeasurement": "lbs"
+  },
+  {
+    "name": "chili powder",
+    "baseQuantity": "1",
+    "baseMeasurement": "tsp"
+  },
+  {
+    "name": "cilantro",
+    "baseQuantity": "1",
+    "baseMeasurement": "cups"
+  },
+  {
+    "name": "cumin",
     "baseQuantity": "1",
     "baseMeasurement": "tsp"
   },
@@ -35,79 +55,9 @@
     "baseMeasurement": "count"
   },
   {
-    "name": "chicken breasts",
-    "baseQuantity": "1",
-    "baseMeasurement": "lbs"
-  },
-  {
-    "name": "rice",
+    "name": "flour",
     "baseQuantity": "1",
     "baseMeasurement": "cups"
-  },
-  {
-    "name": "sliced bread",
-    "baseQuantity": "1",
-    "baseMeasurement": "slices"
-  },
-  {
-    "name": "honey",
-    "baseQuantity": "1",
-    "baseMeasurement": "tbsp"
-  },
-  {
-    "name": "butter",
-    "baseQuantity": "1",
-    "baseMeasurement": "tbsp"
-  },
-  {
-    "name": "margerine",
-    "baseQuantity": "1",
-    "baseMeasurement": "tbsp"
-  },
-  {
-    "name": "banana",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
-  },
-  {
-    "name": "roma tomato",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
-  },
-  {
-    "name": "medium cheddar cheese",
-    "baseQuantity": "1",
-    "baseMeasurement": "lbs"
-  },
-  {
-    "name": "sugar",
-    "baseQuantity": "1",
-    "baseMeasurement": "cups"
-  },
-  {
-    "name": "cilantro",
-    "baseQuantity": "1",
-    "baseMeasurement": "cups"
-  },
-  {
-    "name": "bacon",
-    "baseQuantity": "1",
-    "baseMeasurement": "slices"
-  },
-  {
-    "name": "yellow onion",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
-  },
-  {
-    "name": "red onion",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
-  },
-  {
-    "name": "white onion",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
   },
   {
     "name": "flour tortilla",
@@ -115,9 +65,9 @@
     "baseMeasurement": "count"
   },
   {
-    "name": "lg avocado",
+    "name": "fresh parsley",
     "baseQuantity": "1",
-    "baseMeasurement": "count"
+    "baseMeasurement": "cups"
   },
   {
     "name": "garlic powder",
@@ -130,7 +80,17 @@
     "baseMeasurement": "tsp"
   },
   {
-    "name": "onion powder",
+    "name": "green bell pepper",
+    "baseQuantity": "1",
+    "baseMeasurement": "count"
+  },
+  {
+    "name": "green onions",
+    "baseQuantity": "1",
+    "baseMeasurement": "cups"
+  },
+  {
+    "name": "ground coriander",
     "baseQuantity": "1",
     "baseMeasurement": "tsp"
   },
@@ -140,22 +100,42 @@
     "baseMeasurement": "tsp"
   },
   {
-    "name": "ground coriander",
-    "baseQuantity": "1",
-    "baseMeasurement": "tsp"
-  },
-  {
-    "name": "chili powder",
-    "baseQuantity": "1",
-    "baseMeasurement": "tsp"
-  },
-  {
-    "name": "red wine vinegar",
+    "name": "half & half",
     "baseQuantity": "1",
     "baseMeasurement": "cups"
   },
   {
-    "name": "cumin",
+    "name": "honey",
+    "baseQuantity": "1",
+    "baseMeasurement": "tbsp"
+  },
+  {
+    "name": "lg avocado",
+    "baseQuantity": "1",
+    "baseMeasurement": "count"
+  },
+  {
+    "name": "margerine",
+    "baseQuantity": "1",
+    "baseMeasurement": "tbsp"
+  },
+  {
+    "name": "mayonaise",
+    "baseQuantity": "1",
+    "baseMeasurement": "cups"
+  },
+  {
+    "name": "medium cheddar cheese",
+    "baseQuantity": "1",
+    "baseMeasurement": "lbs"
+  },
+  {
+    "name": "milk",
+    "baseQuantity": "1",
+    "baseMeasurement": "cups"
+  },
+  {
+    "name": "onion powder",
     "baseQuantity": "1",
     "baseMeasurement": "tsp"
   },
@@ -165,9 +145,14 @@
     "baseMeasurement": "tsp"
   },
   {
-    "name": "smoked paprika",
+    "name": "red bell pepper",
     "baseQuantity": "1",
-    "baseMeasurement": "tsp"
+    "baseMeasurement": "count"
+  },
+  {
+    "name": "red onion",
+    "baseQuantity": "1",
+    "baseMeasurement": "count"
   },
   {
     "name": "red pepper flakes",
@@ -175,34 +160,24 @@
     "baseMeasurement": "tsp"
   },
   {
-    "name": "green onions",
-    "baseQuantity": "1",
-    "baseMeasurement": "cups"
-  },
-  {
-    "name": "green bell pepper",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
-  },
-  {
-    "name": "yellow bell pepper",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
-  },
-  {
-    "name": "red bell pepper",
-    "baseQuantity": "1",
-    "baseMeasurement": "count"
-  },
-  {
-    "name": "fresh parsley",
-    "baseQuantity": "1",
-    "baseMeasurement": "cups"
-  },
-  {
     "name": "red potatoes",
     "baseQuantity": "1",
     "baseMeasurement": "lbs"
+  },
+  {
+    "name": "red wine vinegar",
+    "baseQuantity": "1",
+    "baseMeasurement": "cups"
+  },
+  {
+    "name": "rice",
+    "baseQuantity": "1",
+    "baseMeasurement": "cups"
+  },
+  {
+    "name": "roma tomato",
+    "baseQuantity": "1",
+    "baseMeasurement": "count"
   },
   {
     "name": "russet potatoes",
@@ -215,17 +190,22 @@
     "baseMeasurement": "count"
   },
   {
-    "name": "mayonaise",
-    "baseQuantity": "1",
-    "baseMeasurement": "cups"
-  },
-  {
-    "name": "cajun seasoning",
+    "name": "salt",
     "baseQuantity": "1",
     "baseMeasurement": "tsp"
   },
   {
-    "name": "half & half",
+    "name": "sliced bread",
+    "baseQuantity": "1",
+    "baseMeasurement": "slices"
+  },
+  {
+    "name": "smoked paprika",
+    "baseQuantity": "1",
+    "baseMeasurement": "tsp"
+  },
+  {
+    "name": "sugar",
     "baseQuantity": "1",
     "baseMeasurement": "cups"
   },
@@ -233,5 +213,30 @@
     "name": "thyme",
     "baseQuantity": "1",
     "baseMeasurement": "tsp"
+  },
+  {
+    "name": "vegetable oil",
+    "baseQuantity": "1",
+    "baseMeasurement": "tbsp"
+  },
+  {
+    "name": "water",
+    "baseQuantity": "1",
+    "baseMeasurement": "cups"
+  },
+  {
+    "name": "white onion",
+    "baseQuantity": "1",
+    "baseMeasurement": "count"
+  },
+  {
+    "name": "yellow bell pepper",
+    "baseQuantity": "1",
+    "baseMeasurement": "count"
+  },
+  {
+    "name": "yellow onion",
+    "baseQuantity": "1",
+    "baseMeasurement": "count"
   }
 ]
