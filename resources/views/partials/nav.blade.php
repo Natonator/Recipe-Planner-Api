@@ -16,7 +16,7 @@
           <li><a href="/">Home</a></li>
           <li><a href="/recipes">Recipes</a></li>
           <li><a href="#">Planner</a></li>
-          <li><a href="#">Shopping List</a></li>
+          <li><a href="/shopping-list">Shopping List</a></li>
         </ul>
         @if (Auth::check())
           <ul class="nav navbar-nav navbar-right">
